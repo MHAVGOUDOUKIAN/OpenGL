@@ -1,0 +1,9 @@
+exe
+.vscode
+Makefile
+CMakeCache.txt
+cmake_installe.cmake
+CMakeFiles
+OpenGL
+.temp
+.tmp
